@@ -1,0 +1,4 @@
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1080px;font-family:'Inter','Inter Display',sans-serif;-webkit-font-smoothing:antialiased}
+.pill{display:inline-block;font-weight:800;letter-spacing:.12em;font-size:28px;padding:16px 28px;border-radius:999px}
+h1{font-weight:800;letter-spacing:-.02em;line-height:1.08}
